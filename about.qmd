@@ -1,0 +1,53 @@
+---
+toc: false
+---
+
+## Goals
+
+The project aims to make the analysis of cognitive interviews more efficient by combining human expertise with innovative AI-based coding methods, thereby extending the reach of the method. In addition, the project contributes to understanding how children and parents assess children's health in large-scale studies. For this purpose, potential differences in health assessment strategies between the respondent groups are examined, and systematic variations by age and gender are identified.
+
+## Background
+
+To ensure the quality of survey research, survey instruments are validated using both qualitative and quantitative methods. Both approaches, however, come with limitations. While quantitative analyses can reveal efficiently generalizable relationships between different concepts and systematic differences between respondents due to large sample sizes, they are limited in their ability to capture complex cognitive processes within individuals.
+
+In contrast to quantitative methods, qualitative approaches such as semi-structured cognitive interviews provide deeper insights into participants' thought patterns. However, the high cost of such studies often limits sample size and scalability, which affects general validity, generalizability, and the ability to account for differences between subgroups.
+
+Integrating the strengths of both methods can significantly improve survey research by enabling a holistic understanding of phenomena while simultaneously leveraging the benefits of quantitative validation. However, combining both approaches presents a challenge.
+
+The AI-SIC project contributes by developing an AI-based approach for semi-automatic coding using an active learning strategy. This involves combining machine coding algorithms with human coding skills. Furthermore, new methods are applied to efficiently and thoroughly validate survey instruments in order to address research gaps concerning the already established measurement of self-rated health. This will help to close the gap between qualitative and quantitative methods and answer open questions about how children and their parents assess the health of children.
+
+## Approach and Methods
+
+The project is divided into four substantive work packages.
+
+The **first work package "Development of the semi-automatic coding framework InTraCo"** (Dr. Andreas Niekler & Stephan Poppe; University of Leipzig) aims to methodologically and technically integrate language-based machine learning and reliable semi-automatic coding procedures into the toolbox of computer-assisted social sciences. The goal is to combine machine coding algorithms with human inductive coding skills to increase efficiency in coding extensive qualitative interview data.
+
+The **second work package "Application and Evaluation of InTraCo"** (Dr. Andreas Niekler & Stephan Poppe; University of Leipzig) is dedicated to the application of the newly developed approach as well as its validation and adaptation.
+
+The **third work package "Exploring the self- and proxy-assessment strategies of children and parents"** (Dr. Jacqueline Kroh; LIfBi) utilizes the highly complex data obtained and examines whether the new method can provide added value for content-related analyses using machine learning procedures. This is intended to gain a more comprehensive understanding of how both children and parents assess children's health.
+
+The **fourth work package "Comparability of assessment strategies and results between self- and proxy-assessments of children and parents"** (Prof. Dr. Julia Offenhammer-Tuppat; University of Leipzig) deepens the insights gained in work package three and investigates similarities and differences between various respondent groups in the children’s self-assessments and the parents’ proxy assessments of child health.
+
+## Data Collection
+
+AI-SIC uses qualitative data and conducts cognitive interviews based on web-based as well as real face-to-face interviews.
+
+## Project Profile
+
+<ul>
+<li><strong>Project Leadership and Proposal Submission:</strong> Dr. Jacqueline Kroh (LIfBi), Dr. Andreas Niekler (University of Leipzig), Dr. Stephan Poppe (University of Leipzig), Prof. Dr. Julia Offenhammer-Tuppat (University of Leipzig)</li>
+<li><strong>Project Lead at LIfBi:</strong> Dr. Jacqueline Kroh</li>
+<li><strong>Project Duration:</strong> 07/2025 - 06/2028</li>
+<li><strong>Funding:</strong> German Research Foundation (DFG)</li>
+<li><strong>Website:</strong> <a href="https://aisicresearch.github.io/" target="_blank" rel="noopener">aisicresearch.github.io</a></li>
+</ul>
+
+## Project Staff
+
+- [Dr. Andreas Niekler](https://www.uni-leipzig.de/personenprofil/mitarbeiter/dr-andreas-niekler)
+- [Dr. Jacqueline Kroh](https://www.lifbi.de/de-de/Start/Institut/Personen/Person/account/1373?name=Kroh,Jacqueline)
+- [Dr. Stephan Poppe](https://www.uni-leipzig.de/personenprofil/mitarbeiter/dr-stephan-poppe)
+- [Prof. Dr. Julia Ofenhammer Tuppat](https://www.uni-leipzig.de/personenprofil/mitarbeiter/juniorprof-dr-julia-offenhammer-tuppat)
+- [Nicolas Ruth](https://www.uni-leipzig.de/personenprofil/mitarbeiter/nicolas-ruth)
+- [Leonie Steinbrinker](https://www.uni-leipzig.de/personenprofil/mitarbeiter/leonie-steinbrinker)
+- Peter Kannewitz

@@ -1,0 +1,60 @@
+---
+pagetitle: "AI-SIC"
+image: "images/"
+canonical-url: "https://aisicresearch.github.io/"
+section-divs: false
+description: | 
+  'AI Enhanced Validation of Survey Instruments: Integrating Semi-Automated Methods in Cognitive Interviews for Children’s Self- and Proxy-Assessments of Health'
+listing:
+  - id: articles
+    contents: 
+    - /articles
+    - "!articles/index.qmd"
+    sort: "date desc"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+    feed: false
+    fields: [image, date, title, description]
+toc: false
+format: 
+  html:
+    html-math-method: plain
+---
+
+# AI Enhanced Validation of Survey Instruments
+
+
+:::: {.content-block}
+
+[`<button type="button">GitHub</button>`{=html}](https://github.com/aisicresearch)
+
+
+::: {.title-block}
+
+::: {.img-text}
+Integrating Semi-Automated Methods in Cognitive Interviews for Children’s Self- and Proxy Assessments of Health (AI-SIC).
+<br>
+→  more [***about***](about.qmd)
+
+
+:::
+
+:::
+
+\
+
+::::
+
+<!-- Articles -->
+:::{.content-block}
+
+## [Articles](articles/index.qmd)
+
+:::{#articles}
+:::
+
+:::
+
