@@ -7,7 +7,7 @@ image: "chat.png"
 ---
 
 Planned talk for the [ESRA Conference](https://www.europeansurveyresearch.org/conf2025/prog.php?sess=54#362). Shortly, we will publish an article related to our research. For now, you can find the abstract of the talk here.
-x
+
 # Abstract
 
 Selecting an appropriate measurement instrument in social science survey research presents researchers with a fundamental trade-off between depth and scalability. The emergence of Large Language Models (LLMs), with their diverse applications and enhanced user-friendliness, opens new possibilities for social science research methodology. While recent research has primarily focused on whether LLMs can replace human respondents through so-called silicon samples, less attention has been paid to their potential to also replace interviewers. Early findings suggest that AI interviewers can surpass humans in specific tasks, such as active listening, while also reducing biases resulting from reactivity and social desirability effects, but their capabilities remain underexplored.
