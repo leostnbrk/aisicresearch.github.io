@@ -46,7 +46,7 @@ AI-SIC uses qualitative data and conducts cognitive interviews based on web-base
 - [Dr. Andreas Niekler](https://www.uni-leipzig.de/personenprofil/mitarbeiter/dr-andreas-niekler)
 - [Dr. Jacqueline Kroh](https://www.lifbi.de/de-de/Start/Institut/Personen/Person/account/1373?name=Kroh,Jacqueline)
 - [Dr. Stephan Poppe](https://www.uni-leipzig.de/personenprofil/mitarbeiter/dr-stephan-poppe)
-- [Prof. Dr. Julia Ofenhammer Tuppat](https://www.uni-leipzig.de/personenprofil/mitarbeiter/juniorprof-dr-julia-offenhammer-tuppat)
+- [Prof. Dr. Julia Offenhammer Tuppat](https://www.uni-leipzig.de/personenprofil/mitarbeiter/juniorprof-dr-julia-offenhammer-tuppat)
 - [Nicolas Ruth](https://www.uni-leipzig.de/personenprofil/mitarbeiter/nicolas-ruth)
 - [Leonie Steinbrinker](https://www.uni-leipzig.de/personenprofil/mitarbeiter/leonie-steinbrinker)
 - [Donata Perakis](https://www.lifbi.de/de-de/Start/Institut/Personen/Person/account/1596)
