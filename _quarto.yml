@@ -18,6 +18,8 @@ website:
         href: about.qmd
       - text: CONTACT
         href: contact.qmd
+      - text: DE 🇩🇪
+        href: /de/index.qmd
 
 
   page-navigation: true
