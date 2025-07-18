@@ -5,7 +5,7 @@ canonical-url: "https://aisicresearch.github.io/de/"
 section-divs: false
 
 description: | 
-  'KI-gestützte Validierung von Fragebögen: Integration halbautomatisierter Methoden in kognitive Interviews für Selbst- und Fremdeinschätzungen der Gesundheit von Kindern.'
+  'KI-gestützte Validierung von Fragebögen: Integration semi automatisierter Methoden in kognitive Interviews für Selbst- und Fremdeinschätzungen der Gesundheit von Kindern.'
 
 listing:
   - id: articles
