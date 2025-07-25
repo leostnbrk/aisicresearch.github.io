@@ -3,5 +3,5 @@ pagetitle: "404"
 toc: false
 ---
 
-# 404 - Page not found
+# 404 - Die Seite konnte nicht gefunden werden.
 
