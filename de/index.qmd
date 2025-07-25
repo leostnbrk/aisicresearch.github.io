@@ -55,7 +55,7 @@ Integration semiautomatischer Methoden in kognitive Interviews für Selbst- und 
 <!-- Artikel -->
 :::{.content-block}
 
-## [Artikel](articles/index.qmd)
+## [Artikel (Englisch)](articles/index.qmd)
 
 :::{#articles}
 :::
